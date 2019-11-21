@@ -1,2 +1,7 @@
-# WordPress-Plugin-Developer-Handbook
-Dịch handbook sang tiếng việt
+Welcome to WordPress Plugin Developer Handbook
+========================
+
+Mục đích
+-------
+
+Dịch Handbook sang Tiếng Việt
