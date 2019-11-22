@@ -69,3 +69,19 @@ involved.
 
    intro/intro
    intro/what-is-a-plugin
+
+
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Plugin Basics
+
+   plugin-basics/plugin-basics
+   plugin-basics/header-requirements
+   plugin-basics/including-a-software-license
+   plugin-basics/activation-deactivation-hooks
+   plugin-basics/uninstall-methods
+   plugin-basics/best-practices
+   plugin-basics/determining-plugin-and-content-directories
