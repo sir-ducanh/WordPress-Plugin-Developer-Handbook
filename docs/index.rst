@@ -176,3 +176,17 @@ involved.
    
    
    
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Metadata
+
+   metadata/metadata
+   metadata/managing-post-metadata
+   metadata/custom-meta-boxes
+   metadata/rendering-post-metadata
+   
+   
+   
+   
+   
