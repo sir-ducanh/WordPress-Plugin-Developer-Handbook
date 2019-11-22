@@ -203,3 +203,16 @@ involved.
    
    
    
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Taxonomies
+
+   taxonomies/taxonomies
+   taxonomies/working-with-custom-taxonomies
+   taxonomies/split-terms-wp-4-2
+   
+   
+   
+   
+   
