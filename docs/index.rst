@@ -132,3 +132,17 @@ involved.
    
    
    
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Administration Menus
+
+   administration-menus/administration-menus
+   administration-menus/top-level-menus
+   administration-menus/sub-menus
+
+   
+   
+   
+   
+   
