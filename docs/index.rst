@@ -95,12 +95,12 @@ involved.
    :hidden:
    :caption: Plugin Security
 
-   plugin-security/plugin-security
-   plugin-security/checking-user-capabilities
-   plugin-security/data-validation
-   plugin-security/securing-input
-   plugin-security/securing-output
-   plugin-security/nonces
+   security/plugin-security
+   security/checking-user-capabilities
+   security/data-validation
+   security/securing-input
+   security/securing-output
+   security/nonces
 
 
 
