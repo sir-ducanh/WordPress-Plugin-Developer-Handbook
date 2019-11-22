@@ -105,3 +105,13 @@ involved.
 
 
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Hooks
+
+   hooks/hooks
+   hooks/actions
+   hooks/filters
+   hooks/custom-hooks
+   hooks/advanced-topics
