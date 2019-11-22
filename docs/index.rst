@@ -295,3 +295,15 @@ involved.
    
    
    
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Developer Tools
+
+   developer-tools/developer-tools
+   developer-tools/debug-bar-and-add-ons
+   developer-tools/helper-plugins
+   
+   
+   
+   
