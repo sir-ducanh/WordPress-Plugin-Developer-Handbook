@@ -146,3 +146,18 @@ involved.
    
    
    
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Shortcodes
+
+   shortcodes/shortcodes
+   shortcodes/basic-shortcodes
+   shortcodes/enclosing-shortcodes
+   shortcodes/shortcodes-with-parameters
+   shortcodes/tinymce-enhanced-shortcodes
+   
+   
+   
+   
+   
