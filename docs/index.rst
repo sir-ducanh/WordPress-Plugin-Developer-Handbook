@@ -161,3 +161,18 @@ involved.
    
    
    
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Settings
+
+   settings/settings
+   settings/settings-api
+   settings/using-settings-api
+   settings/options-api
+   settings/custom-settings-page
+   
+   
+   
+   
+   
