@@ -216,3 +216,82 @@ involved.
    
    
    
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Users
+
+   users/users
+   users/working-with-users
+   users/working-with-user-metadata
+   users/roles-and-capabilities   
+   
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: HTTP API
+
+   http-api/http-api
+   
+   
+   
+      
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: JavaScript
+
+   javascript/javascript
+   javascript/jquery
+   javascript/ajax
+   javascript/enqueuing
+   javascript/heartbeat-api
+   javascript/summary
+   
+   
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Cron
+
+   cron/cron
+   cron/understanding-wp-cron-scheduling
+   cron/scheduling-wp-cron-events
+   cron/hooking-wp-cron-into-the-system-task-scheduler
+   cron/simple-testing
+   
+   
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Internationalization
+
+   internationalization/internationalization
+   internationalization/localization
+   internationalization/how-to-internationalize-your-plugin
+   internationalization/security
+   
+   
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: The WordPress.org Plugin Directory
+
+   wordpress-org/wordpress-org
+   wordpress-org/detailed-plugin-guidelines
+   wordpress-org/planning-your-plugin
+   wordpress-org/how-to-use-subversion
+   wordpress-org/alerts-and-warnings
+   wordpress-org/plugin-developer-faq
+   
+   
+   
+   
