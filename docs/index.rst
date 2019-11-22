@@ -190,3 +190,16 @@ involved.
    
    
    
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Custom Post Types
+
+   post-types/post-types
+   post-types/registering-custom-post-types
+   post-types/working-with-custom-post-types
+   
+   
+   
+   
+   
