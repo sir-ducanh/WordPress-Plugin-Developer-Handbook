@@ -26,3 +26,8 @@ latex_documents = [
   ('index', 'wordpress-plugin-developer-handbook.tex', u'WordPress-Plugin-Developer-Handbook Documentation',
    u'', 'manual'),
 ]
+
+# -- Options for sphinx-intl example
+
+locale_dirs = ['locale/']   # po files will be created in this directory
+gettext_compact = False     # optional: avoid file concatenation in sub directories.
