@@ -115,3 +115,20 @@ involved.
    hooks/filters
    hooks/custom-hooks
    hooks/advanced-topics
+
+
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Privacy
+
+   privacy/privacy
+   privacy/suggesting-text-for-the-site-privacy-policy
+   privacy/adding-the-personal-data-exporter-to-your-plugin
+   privacy/adding-the-personal-data-eraser-to-your-plugin
+   privacy/privacy-related-options-hooks-and-capabilities
+   
+   
+   
