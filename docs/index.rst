@@ -85,3 +85,19 @@ involved.
    plugin-basics/uninstall-methods
    plugin-basics/best-practices
    plugin-basics/determining-plugin-and-content-directories
+   
+   
+   
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Plugin Security
+
+   plugin-security/plugin-security
+   plugin-security/checking-user-capabilities
+   plugin-security/data-validation
+   plugin-security/securing-input
+   plugin-security/securing-output
+   plugin-security/nonces
