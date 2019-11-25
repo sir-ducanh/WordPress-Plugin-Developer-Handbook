@@ -5,8 +5,21 @@ from __future__ import division, print_function, unicode_literals
 from datetime import datetime
 
 from recommonmark.parser import CommonMarkParser
+import sphinx_rtd_theme
 
-extensions = []
+extensions = [
+    'sphinx.ext.autosectionlabel',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.intersphinx',
+    'sphinxcontrib.httpdomain',
+    'djangodocs',
+    'doc_extensions',
+    'sphinx_tabs.tabs',
+    'sphinx-prompt',
+    'recommonmark',
+    'notfound.extension',
+    'sphinx_search.extension',
+]
 templates_path = ['templates', '_templates', '.templates']
 source_suffix = ['.rst', '.md']
 source_parsers = {
