@@ -68,7 +68,7 @@ For example: ``/plugin-name/uninstall.php``
 Here is an example deleting option entries and dropping a database
 table:
 
-.. code:: php
+.. code-block:: php
 
    // if uninstall.php is not called by WordPress, die
    if (!defined('WP_UNINSTALL_PLUGIN')) {
