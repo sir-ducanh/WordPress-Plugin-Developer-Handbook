@@ -26,7 +26,6 @@ copyright = str(datetime.now().year)
 version = 'latest'
 release = 'latest'
 exclude_patterns = ['_build']
-pygments_style = 'sphinx'
 htmlhelp_basename = 'wordpress-plugin-developer-handbook'
 html_theme = 'sphinx_rtd_theme'
 file_insertion_enabled = False
