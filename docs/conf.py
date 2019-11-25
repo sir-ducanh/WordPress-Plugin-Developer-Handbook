@@ -19,9 +19,6 @@ extensions = [
 ]
 templates_path = ['templates', '_templates', '.templates']
 source_suffix = ['.rst', '.md']
-source_parsers = {
-            '.md': CommonMarkParser,
-        }
 master_doc = 'index'
 project = u'WordPress-Plugin-Developer-Handbook'
 copyright = str(datetime.now().year)
