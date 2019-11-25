@@ -31,7 +31,7 @@ To get started creating a new plugin, follow the steps below.
 
 Here’s what the process looks like on the Unix command line:
 
-.. code:: shell
+.. code-block:: console
 
    wordpress$ cd wp-content
    wp-content$ cd plugins
@@ -54,7 +54,7 @@ Only **one file** in the plugin’s folder should have the header comment
 — if the plugin has multiple PHP files, only one of those files should
 have the header comment.
 
-.. code:: php
+.. code-block:: php
 
    <?php
    /**
