@@ -16,6 +16,7 @@ extensions = [
     'sphinx-prompt',
     'recommonmark',
     'sphinx_search.extension',
+    'sphinx_rtd_theme',
 ]
 templates_path = ['templates', '_templates', '.templates']
 source_suffix = ['.rst', '.md']
