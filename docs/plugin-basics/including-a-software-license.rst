@@ -17,7 +17,7 @@ same one that has the plugin header comment).
 
 This license block comment usually looks something like this:
 
-.. code:: php
+.. code-block:: php
 
    /*
    {Plugin Name} is free software: you can redistribute it and/or modify
@@ -36,7 +36,7 @@ This license block comment usually looks something like this:
 
 When combined with the plugin header comment:
 
-.. code:: php
+.. code-block:: php
 
    /*
    Plugin Name: WordPress.org Plugin
