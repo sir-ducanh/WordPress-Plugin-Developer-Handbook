@@ -28,7 +28,7 @@ To set up an activation hook, use the
 `register\ activation\ hook() <https://developer.wordpress.org/reference/functions/register_activation_hook/>`__
 function:
 
-.. code:: php
+.. code-block:: php
 
    register_activation_hook( __FILE__, 'pluginprefix_function_to_run' );
 
@@ -41,7 +41,7 @@ To set up a deactivation hook, use the
 `register\ deactivation\ hook() <https://developer.wordpress.org/reference/functions/register_deactivation_hook/>`__
 function:
 
-.. code:: php
+.. code-block:: php
 
    register_deactivation_hook( __FILE__, 'pluginprefix_function_to_run' );
 
@@ -63,7 +63,7 @@ gets rid of the nasty 404 errors.
 
 Let’s look at an example of how to do this:
 
-.. code:: php
+.. code-block:: php
 
    function pluginprefix_setup_post_type() {  
    	// register the "book" custom post type
@@ -87,7 +87,7 @@ very common.
 Using the example from above, the following is how to reverse this
 process and deactivate a plugin:
 
-.. code:: php
+.. code-block:: php
 
    function pluginprefix_deactivation() {
    	// unregister the post type, so the rules are no longer in memory
