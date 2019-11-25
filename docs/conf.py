@@ -18,12 +18,7 @@ extensions = [
     'sphinx_search.extension',
     'sphinx_rtd_theme',
 ]
-# use language set by highlight directive if no language is set by role
-inline_highlight_respect_highlight = False
-
-# use language set by highlight directive if no role is set
-inline_highlight_literals = False
-
+pygments_style = 'sphinx'
 templates_path = ['templates', '_templates', '.templates']
 source_suffix = ['.rst', '.md']
 master_doc = 'index'
