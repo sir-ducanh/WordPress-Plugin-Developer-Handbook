@@ -17,7 +17,7 @@ extensions = [
     'recommonmark',
     'sphinx_search.extension',
     'sphinx_rtd_theme',
-    'sphinxcontrib.inlinesyntaxhighlight'
+    'sphinxcontrib.inlinesyntaxhighlight',
 ]
 # use language set by highlight directive if no language is set by role
 inline_highlight_respect_highlight = False
